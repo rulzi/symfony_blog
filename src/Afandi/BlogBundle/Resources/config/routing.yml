@@ -1,0 +1,3 @@
+afandi_blog_homepage:
+    path:     /
+    defaults: { _controller: AfandiBlogBundle:Home:index }

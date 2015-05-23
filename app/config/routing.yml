@@ -1,3 +1,7 @@
+afandi_blog:
+    resource: "@AfandiBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation
